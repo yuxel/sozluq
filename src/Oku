@@ -1,0 +1,17 @@
+SozluQ alfa 1
+-------
+Qt 4.x ile yazılmış Türkçe İngilizce sözlük uygulaması.
+Sözcük veritabanı http://forum.ceviz.net/showthread.php?s=&threadid=32684 adresinden alınmıştır
+Uygulama GNU/GPL lisans koşulları altında dağıtılabilir.
+
+/////////
+Kurulum
+-------
+Sisteminizde Qt 4.x kütüphaneleri kurulu ise uygulama dizininde
+
+qmake -project
+qmake
+make
+
+komutlarını verdikten sonra uygulama oluşacaktır.
+
